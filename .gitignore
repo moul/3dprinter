@@ -1,3 +1,4 @@
 Marlin
 .platformio
 .venv-nix
+*.bin
