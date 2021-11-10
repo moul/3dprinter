@@ -2,8 +2,9 @@ UPDATE_ENV = PATH=$(PATH):$(dir $(wildcard $(HOME)/Library/Python/*/bin/platform
 
 .PHONY: compile
 compile: deps
-	cd Marlin
-	git checkout
+	@#cd Marlin && git checkout bugfix-JyersUI && git pull
+	cd Marlin; $(UPDATE_ENV) platformio run --target clean
+	cd Marlin; $(UPDATE_ENV) platformio run
 
 .PHONY: deps
 deps: Marlin .platformio
