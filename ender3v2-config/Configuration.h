@@ -139,11 +139,11 @@
 
 // Choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_CREALITY_V4
+  #define MOTHERBOARD BOARD_CREALITY_V427
 #endif
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Ender-3 V2"
+#define CUSTOM_MACHINE_NAME "Ender-3 V2 (moul)"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
@@ -1378,7 +1378,7 @@
 #define Z_MIN_POS 0
 #define X_MAX_POS X_BED_SIZE + 15 // Extended max to allow the probe to reach more of the bed.
 #define Y_MAX_POS Y_BED_SIZE
-#define Z_MAX_POS 450
+#define Z_MAX_POS 550
 //#define I_MIN_POS 0
 //#define I_MAX_POS 50
 //#define J_MIN_POS 0
