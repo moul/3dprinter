@@ -1,0 +1,67 @@
+print_history:
+- analysisFirstFilamentPrintTime: 12.959614144762782
+  analysisLastFilamentPrintTime: 3294.497571022932
+  analysisPrintTime: 3305.502661661988
+  compensatedPrintTime: 3639.9126392687917
+  firstFilamentPrintTime: 216.34099382400018
+  lastFilamentPrintTime: 3685.2059796020003
+  payload:
+    name: Desktop_Trashcan-Ender-3V2-Ma-PLA-custom-1e6a0c7.gcode
+    origin: local
+    path: Desktop_Trashcan-Ender-3V2-Ma-PLA-custom-1e6a0c7.gcode
+    size: 2672922
+    time: 3702.069677018
+  timestamp: 1636654733.7820165
+- analysisFirstFilamentPrintTime: 12.959614144762782
+  analysisLastFilamentPrintTime: 4026.078052864944
+  analysisPrintTime: 4038.143477901791
+  compensatedPrintTime: 4468.072897368857
+  firstFilamentPrintTime: 176.57289603999925
+  lastFilamentPrintTime: 3568.3505363330005
+  payload:
+    name: 3DBenchy_-_Multi-par-Ender-3V2-Ma-PLA-custom-54a6776.gcode
+    origin: local
+    path: 3DBenchy_-_Multi-par-Ender-3V2-Ma-PLA-custom-54a6776.gcode
+    size: 3831188
+    time: 3584.7447876509996
+  timestamp: 1636650524.4323072
+- analysisFirstFilamentPrintTime: 12.959614144762554
+  analysisLastFilamentPrintTime: 1372.4254349925504
+  analysisPrintTime: 1384.3921550260152
+  compensatedPrintTime: 1678.6920455228044
+  firstFilamentPrintTime: 151.51750321600002
+  lastFilamentPrintTime: 1684.2970503310003
+  payload:
+    name: 3DBenchy_-_Multi-par-Ender-3V2-Ma-PLA-custom-ab97452.gcode
+    origin: local
+    path: 3DBenchy_-_Multi-par-Ender-3V2-Ma-PLA-custom-ab97452.gcode
+    size: 1488865
+    time: 1699.864676523
+  timestamp: 1636640531.5017543
+- analysisFirstFilamentPrintTime: 12.959614144761872
+  analysisLastFilamentPrintTime: 10447.705873467832
+  analysisPrintTime: 10459.350410155039
+  compensatedPrintTime: 10905.407324682104
+  firstFilamentPrintTime: 287.05575332499996
+  lastFilamentPrintTime: 11495.484404187
+  payload:
+    name: spooltoptop3-Ender-3V2-Manfred-PLA-custom-13af0d9.gcode
+    origin: local
+    path: spooltoptop3-Ender-3V2-Manfred-PLA-custom-13af0d9.gcode
+    size: 13787935
+    time: 11510.50069703
+  timestamp: 1636202474.5655022
+- analysisFirstFilamentPrintTime: 12.959614144762327
+  analysisLastFilamentPrintTime: 3234.929657888919
+  analysisPrintTime: 3245.6056757303827
+  compensatedPrintTime: 3565.090239144648
+  firstFilamentPrintTime: 229.85609682099312
+  lastFilamentPrintTime: 3462.152701177998
+  payload:
+    name: HexSurfaceVase1-Ender-3V2-Manfred-PLA-custom-ed37813.gcode
+    origin: local
+    path: HexSurfaceVase1-Ender-3V2-Manfred-PLA-custom-ed37813.gcode
+    size: 761519
+    time: 3477.4199923580018
+  timestamp: 1636188854.0228608
+version: 2.2.8

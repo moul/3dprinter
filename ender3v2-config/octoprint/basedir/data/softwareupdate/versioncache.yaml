@@ -1,0 +1,763 @@
+ABL_Expert:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: a33091d64e5859138db9b26d285fc290
+  information:
+    local:
+      name: '0.6'
+      value: '0.6'
+    remote:
+      name: '0.6'
+      value: '0.6'
+  online: true
+  possible: true
+  timestamp: 1636636401.9764686
+BLTouch:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 1e60d0a09ee32790fd2c0d51aa1e696b
+  information:
+    local:
+      name: 0.3.4
+      value: 0.3.4
+    needs_online: true
+    remote:
+      name: 0.3.4
+      release_notes: https://github.com/jneilliii/OctoPrint-BLTouch/releases/tag/0.3.4
+      value: 0.3.4
+  online: true
+  possible: true
+  timestamp: 1636636401.988614
+CrealityTemperature:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 5047be83b27f5f2786736a57db88329e
+  information:
+    local:
+      name: 1.2.4
+      value: 1.2.4
+    needs_online: true
+    remote:
+      name: v1.2.4
+      release_notes: https://github.com/RomainOdeval/OctoPrint-CrealityTemperature/releases/tag/v1.2.4
+      value: v1.2.4
+  online: true
+  possible: true
+  timestamp: 1636636401.9984856
+DisplayLayerProgress:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 1f303e39137cbce91a8ba65df19d19b9
+  information:
+    local:
+      name: 1.27.1
+      value: 1.27.1
+    needs_online: true
+    remote:
+      name: V1.27.1
+      release_notes: https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/releases/tag/1.27.1
+      value: 1.27.1
+  online: true
+  possible: true
+  timestamp: 1636636402.022204
+PrintJobHistory:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 2c00fdfc3d1697ce0a370e43a75c69f3
+  information:
+    local:
+      name: 1.14.0
+      value: 1.14.0
+    needs_online: true
+    remote:
+      name: V1.14.0
+      release_notes: https://github.com/OllisGit/OctoPrint-PrintJobHistory/releases/tag/1.14.0
+      value: 1.14.0
+  online: true
+  possible: true
+  timestamp: 1636636402.631419
+PrintTimeGenius:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 95ad555d3778808fa20e14cf1d0df76b
+  information:
+    local:
+      name: 2.2.8
+      value: 2.2.8
+    needs_online: true
+    remote:
+      name: Fix missing print history and height calculation
+      release_notes: https://github.com/eyal0/OctoPrint-PrintTimeGenius/releases/tag/2.2.8
+      value: 2.2.8
+  online: true
+  possible: true
+  timestamp: 1636636402.6727357
+SpoolManager:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 6dccb6ac2a82d41706f973fac20400f4
+  information:
+    local:
+      name: 1.5.0
+      value: 1.5.0
+    needs_online: true
+    remote:
+      name: V1.5.0
+      release_notes: https://github.com/OllisGit/OctoPrint-SpoolManager/releases/tag/1.5.0
+      value: 1.5.0
+  online: true
+  possible: true
+  timestamp: 1636636402.835302
+TheSpaghettiDetective:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 8c4fe6b0ed055955c309d185a3aa1111
+  information:
+    local:
+      name: 1.8.4
+      value: 1.8.4
+    needs_online: true
+    remote:
+      name: 1.8.4
+      release_notes: https://github.com/TheSpaghettiDetective/OctoPrint-TheSpaghettiDetective/releases/tag/1.8.4
+      value: 1.8.4
+  online: true
+  possible: true
+  timestamp: 1636636704.3259673
+UltimakerFormatPackage:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 8c5990d558b54217fe5544bd8d9f45c4
+  information:
+    local:
+      name: 1.0.1
+      value: 1.0.1
+    needs_online: true
+    remote:
+      name: 1.0.1 - Bug Fixes
+      release_notes: https://github.com/jneilliii/OctoPrint-UltimakerFormatPackage/releases/tag/1.0.1
+      value: 1.0.1
+  online: true
+  possible: true
+  timestamp: 1636636402.5921412
+Z_probe_offset:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 529c61e7294495a50156991bd6e89d12
+  information:
+    local:
+      name: '0.5'
+      value: '0.5'
+    remote:
+      name: '0.5'
+      value: '0.5'
+  online: true
+  possible: true
+  timestamp: 1636636405.113935
+__version: 1.7.2
+arc_welder:
+  available: false
+  compatible: true
+  disabled: false
+  error: unknown
+  hash: fa764b038d84a3ddaf10450a8bb12c19
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1636636402.0230873
+astroprint:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 55a851303ef1fb20b8efb8c8ba11cb8b
+  information:
+    local:
+      name: 1.6.5
+      value: 1.6.5
+    needs_online: true
+    remote:
+      name: 1.6.5
+      release_notes: https://github.com/AstroPrint/OctoPrint-AstroPrint/releases/tag/1.6.5
+      value: 1.6.5
+  online: true
+  possible: true
+  timestamp: 1636636402.7796319
+autobim:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 2ca4b88fbf5a7c047a4144332415f60b
+  information:
+    local:
+      name: 0.2.1
+      value: 0.2.1
+    needs_online: true
+    remote:
+      name: Basic Klipper support
+      release_notes: https://github.com/j-be/AutoBim/releases/tag/v0.2.1
+      value: v0.2.1
+  online: true
+  possible: true
+  timestamp: 1636636403.1134918
+backupscheduler:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 81b8ba0e2ef66829df99782222b16489
+  information:
+    local:
+      name: 0.1.0
+      value: 0.1.0
+    needs_online: true
+    remote:
+      name: 0.1.0
+      release_notes: https://github.com/jneilliii/OctoPrint-BackupScheduler/releases/tag/0.1.0
+      value: 0.1.0
+  online: true
+  possible: true
+  timestamp: 1636636403.0774262
+bedlevelvisualizer:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 07ef7ed9eaf22ae2a931fd896010c067
+  information:
+    local:
+      name: 1.1.0
+      value: 1.1.0
+    needs_online: true
+    remote:
+      name: 1.1.0 - Numpy Removal
+      release_notes: https://github.com/jneilliii/OctoPrint-BedLevelVisualizer/releases/tag/1.1.0
+      value: 1.1.0
+  online: true
+  possible: true
+  timestamp: 1636636403.144187
+calibrationcompanion:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 2388718ed6b15c7dfa508cd42c18d6bc
+  information:
+    local:
+      name: 1.0.1
+      value: 1.0.1
+    needs_online: true
+    remote:
+      name: Faster UI, progess bar, smaller acc. tower, more variables.
+      release_notes: https://github.com/iFrostizz/OctoPrint-CalibrationCompanion/releases/tag/1.0.1
+      value: 1.0.1
+  online: true
+  possible: true
+  timestamp: 1636636403.20375
+dashboard:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: d07743d0fc861fecc9d3eae1d49537c8
+  information:
+    local:
+      name: 1.19.4
+      value: 1.19.4
+    needs_online: true
+    remote:
+      name: 1.19.4
+      release_notes: https://github.com/j7126/OctoPrint-Dashboard/releases/tag/1.19.4
+      value: 1.19.4
+  online: true
+  possible: true
+  timestamp: 1636636704.326966
+discordremote:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 284fd28f00e17554231faf71ba0b683f
+  information:
+    local:
+      name: 3.3.0
+      value: 3.3.0
+    needs_online: true
+    remote:
+      name: Release v3.3.0
+      release_notes: https://github.com/cameroncros/OctoPrint-DiscordRemote/releases/tag/v3.3.0
+      value: v3.3.0
+  online: true
+  possible: true
+  timestamp: 1636636403.9034455
+enclosure:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 047305fa6bfea8dd2e2918dc69128ff6
+  information:
+    local:
+      name: 4.13.2
+      value: 4.13.2
+    needs_online: true
+    remote:
+      name: Fixed missing library
+      release_notes: https://github.com/vitormhenrique/OctoPrint-Enclosure/releases/tag/4.13.2
+      value: 4.13.2
+  online: true
+  possible: true
+  timestamp: 1636636403.5912898
+ender3v2tempfix:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 997cb4b409a70cd5e41f99584258c21c
+  information:
+    local:
+      name: 0.0.4
+      value: 0.0.4
+    needs_online: true
+    remote:
+      name: 0.0.4
+      release_notes: https://github.com/SimplyPrint/OctoPrint-Creality2xTemperatureReportingFix/releases/tag/0.0.4
+      value: 0.0.4
+  online: true
+  possible: true
+  timestamp: 1636636403.4342673
+excluderegion:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 9ac8b276c205a0be0ecc2e910a6cccbf
+  information:
+    local:
+      name: 0.3.0
+      value: 0.3.0
+    needs_online: true
+    remote:
+      name: 0.3.0
+      release_notes: https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin/releases/tag/0.3.0
+      value: 0.3.0
+  online: true
+  possible: true
+  timestamp: 1636636403.5068529
+file_check:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 1fd5482b4fa54235531810fa4bf95620
+  information:
+    local:
+      name: 2021.2.23
+      value: 2021.2.23
+    needs_online: true
+    remote:
+      name: 2021.2.23
+      release_notes: https://github.com/OctoPrint/OctoPrint-FileCheck/releases/tag/2021.2.23
+      value: 2021.2.23
+  online: true
+  possible: true
+  timestamp: 1636636403.4272962
+firmware_check:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 2cc0c5c664767763a036f68d2318d063
+  information:
+    local:
+      name: 2021.10.11
+      value: 2021.10.11
+    needs_online: true
+    remote:
+      name: 2021.10.11
+      release_notes: https://github.com/OctoPrint/OctoPrint-FirmwareCheck/releases/tag/2021.10.11
+      value: 2021.10.11
+  online: true
+  possible: true
+  timestamp: 1636636403.7001328
+firmwareupdater:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 0ef365d7ee5b6512a72d9c4d45803487
+  information:
+    local:
+      name: 1.12.0
+      value: 1.12.0
+    needs_online: true
+    remote:
+      name: 1.12.0
+      release_notes: https://github.com/OctoPrint/OctoPrint-FirmwareUpdater/releases/tag/1.12.0
+      value: 1.12.0
+  online: true
+  possible: true
+  timestamp: 1636636403.9753342
+homeassistant:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: fb71f0651c23ec3e2cdb0ff3c6312e88
+  information:
+    local:
+      name: 3.3.2
+      value: 3.3.2
+    needs_online: true
+    remote:
+      name: 3.3.2
+      release_notes: https://github.com/cmroche/OctoPrint-HomeAssistant/releases/tag/3.3.2
+      value: 3.3.2
+  online: true
+  possible: true
+  timestamp: 1636636404.013849
+m73progress:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: c430a1ffcb2ef92f8fb0df6e354accbf
+  information:
+    local:
+      name: 0.2.1
+      value: 0.2.1
+    needs_online: true
+    remote:
+      name: 0.2.1
+      release_notes: https://github.com/cesarvandevelde/OctoPrint-M73Progress/releases/tag/v0.2.1
+      value: v0.2.1
+  online: true
+  possible: true
+  timestamp: 1636636404.2188125
+mqtt:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 72535221e6672b51277399d27c1735e6
+  information:
+    local:
+      name: 0.8.10
+      value: 0.8.10
+    needs_online: true
+    remote:
+      name: 0.8.10
+      release_notes: https://github.com/OctoPrint/OctoPrint-MQTT/releases/tag/0.8.10
+      value: 0.8.10
+  online: true
+  possible: true
+  timestamp: 1636636404.3858435
+navbartemp:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: eeb3f64dccfd9dc63dfa62c7072c42cf
+  information:
+    local:
+      name: '0.14'
+      value: '0.14'
+    needs_online: true
+    remote:
+      name: 0.14 Milestone release
+      release_notes: https://github.com/imrahil/OctoPrint-NavbarTemp/releases/tag/0.14
+      value: '0.14'
+  online: true
+  possible: true
+  timestamp: 1636636404.3958101
+octodashcompanion:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: ab12971e81e81ceafd6c314e539b836d
+  information:
+    local:
+      name: 0.0.6
+      value: 0.0.6
+    needs_online: true
+    remote:
+      name: 0.0.6 - New Features & Bugfixes
+      release_notes: https://github.com/jneilliii/OctoPrint-OctoDashCompanion/releases/tag/0.0.6
+      value: 0.0.6
+  online: true
+  possible: true
+  timestamp: 1636636404.401198
+octopod:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: af3694b86a1245299e7b53a46c460e64
+  information:
+    local:
+      name: 0.3.11
+      value: 0.3.11
+    needs_online: true
+    remote:
+      name: 0.3.11
+      release_notes: https://github.com/gdombiak/OctoPrint-OctoPod/releases/tag/0.3.11
+      value: 0.3.11
+  online: true
+  possible: true
+  timestamp: 1636636404.4607565
+octoprint:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 28b78c9d4f2a2c0a0d14ed9c8205b4db
+  information:
+    local:
+      name: 1.7.2
+      value: 1.7.2
+    needs_online: true
+    remote:
+      name: 1.7.2
+      release_notes: https://github.com/OctoPrint/OctoPrint/releases/tag/1.7.2
+      value: 1.7.2
+  online: true
+  possible: true
+  timestamp: 1636636402.003486
+pi_support:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: a3da1d71a3f7e75425c4c0ae05d3173b
+  information:
+    local:
+      name: 2021.10.28
+      value: 2021.10.28
+    needs_online: true
+    remote:
+      name: 2021.10.28
+      release_notes: https://github.com/OctoPrint/OctoPrint-PiSupport/releases/tag/2021.10.28
+      value: 2021.10.28
+  online: true
+  possible: true
+  timestamp: 1636636404.5055854
+plotlytempgraph:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 126ad47f9ed0253d6346378b14b37323
+  information:
+    local:
+      name: 0.1.3
+      value: 0.1.3
+    needs_online: true
+    remote:
+      name: 0.1.3
+      release_notes: https://github.com/jneilliii/OctoPrint-PlotlyTempGraph/releases/tag/0.1.3
+      value: 0.1.3
+  online: true
+  possible: true
+  timestamp: 1636636404.772776
+preheat:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: a1f57f17ec958dab6294e947d87119a2
+  information:
+    local:
+      name: 0.8.0
+      value: 0.8.0
+    needs_online: true
+    remote:
+      name: Add preheat on file select feature and fix a UI bug with UI Customizer
+      release_notes: https://github.com/marian42/octoprint-preheat/releases/tag/0.8.0
+      value: 0.8.0
+  online: true
+  possible: true
+  timestamp: 1636636404.7325191
+prettygcode:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: adb606b000454b896167a35aa688569e
+  information:
+    local:
+      name: 1.2.4
+      value: 1.2.4
+    needs_online: true
+    remote:
+      name: Version 1.2.4
+      release_notes: https://github.com/Kragrathea/OctoPrint-PrettyGCode/releases/tag/v1.2.4
+      value: v1.2.4
+  online: true
+  possible: true
+  timestamp: 1636636404.7448344
+printhistory:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 2aab259999ae352d4d1fcef6ddc6fdc5
+  information:
+    local:
+      name: '1.3'
+      value: '1.3'
+    needs_online: true
+    remote:
+      name: OctoPrint PrintHistory Plugin 1.3
+      release_notes: https://github.com/imrahil/OctoPrint-PrintHistory/releases/tag/1.3
+      value: '1.3'
+  online: true
+  possible: true
+  timestamp: 1636636404.796297
+prusaslicerthumbnails:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: d0a63de9b8a2821cca85c6bd188c956d
+  information:
+    local:
+      name: 1.0.0
+      value: 1.0.0
+    needs_online: true
+    remote:
+      name: 1.0.0 - New Name
+      release_notes: https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails/releases/tag/1.0.0
+      value: 1.0.0
+  online: true
+  possible: true
+  timestamp: 1636636404.6382098
+psucontrol:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 2babc2279d0980b275e72268e3ba968b
+  information:
+    local:
+      name: 1.0.6
+      value: 1.0.6
+    needs_online: true
+    remote:
+      name: 1.0.6
+      release_notes: https://github.com/kantlivelong/OctoPrint-PSUControl/releases/tag/1.0.6
+      value: 1.0.6
+  online: true
+  possible: true
+  timestamp: 1636636404.9769368
+resource_monitor:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 6793fd5a008b9d0a9c2067b9ae98e2be
+  information:
+    local:
+      name: 0.3.5
+      value: 0.3.5
+    needs_online: true
+    remote:
+      name: 0.3.5
+      release_notes: https://github.com/Renaud11232/OctoPrint-Resource-Monitor/releases/tag/0.3.5
+      value: 0.3.5
+  online: true
+  possible: true
+  timestamp: 1636636405.1290498
+taborder:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 2558a3362224c141180bdfbe6f805e99
+  information:
+    local:
+      name: 0.5.12
+      value: 0.5.12
+    needs_online: true
+    remote:
+      name: 0.5.12
+      release_notes: https://github.com/jneilliii/OctoPrint-TabOrder/releases/tag/0.5.12
+      value: 0.5.12
+  online: true
+  possible: true
+  timestamp: 1636636404.8938248
+themeify:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 84fffb6a168d49098e5ee8e0a342596e
+  information:
+    local:
+      name: 1.2.2
+      value: 1.2.2
+    needs_online: true
+    remote:
+      name: v1.2.2
+      release_notes: https://github.com/Birkbjo/OctoPrint-Themeify/releases/tag/v1.2.2
+      value: v1.2.2
+  online: true
+  possible: true
+  timestamp: 1636636404.9149756
+wifistatus:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 8d7f2002576157ab4f1fa8a9e8ca4b6d
+  information:
+    local:
+      name: 1.7.2
+      value: 1.7.2
+    needs_online: true
+    remote:
+      name: All about the decibels
+      release_notes: https://github.com/ManuelMcLure/OctoPrint-WiFiStatus/releases/tag/v1.7.2
+      value: v1.7.2
+  online: true
+  possible: true
+  timestamp: 1636636405.2240155
+zbolt_octoscreen:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: f9198840700c35efdd9b3f516ebd524d
+  information:
+    local:
+      name: 2.6.0
+      value: 2.6.0
+    needs_online: true
+    remote:
+      name: 2.6.0
+      release_notes: https://github.com/Z-Bolt/OctoPrint-Z-Bolt-OctoScreen/releases/tag/2.6.0
+      value: 2.6.0
+  online: true
+  possible: true
+  timestamp: 1636636405.204635

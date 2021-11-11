@@ -1,0 +1,8 @@
+;G28 ;Home
+;Manfred code
+;G29 ;new bed leveling
+;M420 S1 ;use last-known bed level
+
+;Jyers gcode
+M75 ;Start Print Job on Display
+M117 <F>{{ event.name }} ;Send Filename to Display

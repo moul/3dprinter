@@ -1,0 +1,212 @@
+[
+  {
+    "key": "z_probe_offset",
+    "name": "Z Probe Offset",
+    "url": "https://framagit.org/razer/octoprint_z_probe_offset"
+  },
+  {
+    "key": "wifistatus",
+    "name": "WiFi Status",
+    "url": "https://github.com/ManuelMcLure/OctoPrint-WiFiStatus"
+  },
+  {
+    "key": "thespaghettidetective",
+    "name": "Access Anywhere - The Spaghetti Detective",
+    "url": "https://thespaghettidetective.com"
+  },
+  {
+    "key": "themeify",
+    "name": "Themeify",
+    "url": "https://github.com/birkbjo/OctoPrint-Themeify"
+  },
+  {
+    "key": "prusaslicerthumbnails",
+    "name": "Slicer Thumbnails",
+    "url": "https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails"
+  },
+  {
+    "key": "PrintJobHistory",
+    "name": "PrintJobHistory",
+    "url": "https://github.com/OllisGit/OctoPrint-PrintJobHistory"
+  },
+  {
+    "key": "preheat",
+    "name": "Preheat Button",
+    "url": "https://github.com/marian42/octoprint-preheat"
+  },
+  {
+    "key": "zbolt_octoscreen",
+    "name": "Z-Bolt OctoScreen",
+    "url": "https://github.com/Z-Bolt/OctoPrint-Z-Bolt-OctoScreen"
+  },
+  {
+    "key": "UltimakerFormatPackage",
+    "name": "Cura Thumbnails",
+    "url": "https://github.com/jneilliii/OctoPrint-UltimakerFormatPackage"
+  },
+  {
+    "key": "taborder",
+    "name": "Tab Order",
+    "url": "https://github.com/jneilliii/OctoPrint-TabOrder"
+  },
+  {
+    "key": "SpoolManager",
+    "name": "SpoolManager Plugin",
+    "url": "https://github.com/OllisGit/OctoPrint-SpoolManager"
+  },
+  {
+    "key": "resource_monitor",
+    "name": "Resource Monitor",
+    "url": "https://github.com/Renaud11232/OctoPrint-Resource-Monitor"
+  },
+  {
+    "key": "psucontrol",
+    "name": "PSU Control",
+    "url": "https://github.com/kantlivelong/OctoPrint-PSUControl"
+  },
+  {
+    "key": "PrintTimeGenius",
+    "name": "PrintTimeGenius Plugin",
+    "url": "https://github.com/eyal0/OctoPrint-PrintTimeGenius"
+  },
+  {
+    "key": "printhistory",
+    "name": "Print History Plugin",
+    "url": "https://github.com/imrahil/OctoPrint-PrintHistory"
+  },
+  {
+    "key": "prettygcode",
+    "name": "PrettyGCode",
+    "url": "https://github.com/Kragrathea/OctoPrint-PrettyGCode"
+  },
+  {
+    "key": "plotlytempgraph",
+    "name": "Plotly Temp Graph",
+    "url": "https://github.com/jneilliii/OctoPrint-PlotlyTempGraph"
+  },
+  {
+    "key": "octopod",
+    "name": "OctoPod Plugin",
+    "url": "https://github.com/gdombiak/OctoPrint-OctoPod"
+  },
+  {
+    "key": "navbartemp",
+    "name": "Navbar Temperature Plugin",
+    "url": "https://github.com/imrahil/OctoPrint-NavbarTemp"
+  },
+  {
+    "key": "mqtt",
+    "name": "MQTT",
+    "url": "https://github.com/OctoPrint/OctoPrint-MQTT"
+  },
+  {
+    "key": "homeassistant",
+    "name": "HomeAssistant Discovery",
+    "url": "https://github.com/cmroche/OctoPrint-HomeAssistant"
+  },
+  {
+    "key": "firmwareupdater",
+    "name": "Firmware Updater",
+    "url": "https://github.com/OctoPrint/OctoPrint-FirmwareUpdater"
+  },
+  {
+    "key": "excluderegion",
+    "name": "Exclude Region",
+    "url": "https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin"
+  },
+  {
+    "key": "enclosure",
+    "name": "Enclosure Plugin",
+    "url": "https://github.com/vitormhenrique/OctoPrint-Enclosure"
+  },
+  {
+    "key": "discordremote",
+    "name": "DiscordRemote",
+    "url": "https://github.com/cameroncros/Octoprint-DiscordRemote"
+  },
+  {
+    "key": "dashboard",
+    "name": "Dashboard",
+    "url": "https://github.com/j7126/OctoPrint-Dashboard"
+  },
+  {
+    "key": "CrealityTemperature",
+    "name": "Creality Temperature",
+    "url": "https://github.com/RomainOdeval/OctoPrint-CrealityTemperature/"
+  },
+  {
+    "key": "BLTouch",
+    "name": "BLTouch Plugin",
+    "url": "https://github.com/jneilliii/OctoPrint-Bltouch"
+  },
+  {
+    "key": "octodashcompanion",
+    "name": "OctoDash Companion",
+    "url": "https://github.com/jneilliii/OctoPrint-OctoDashCompanion"
+  },
+  {
+    "key": "m73progress",
+    "name": "M73 Progress Plugin",
+    "url": "https://github.com/cesarvandevelde/OctoPrint-M73Progress"
+  },
+  {
+    "key": "DisplayLayerProgress",
+    "name": "DisplayLayerProgress Plugin",
+    "url": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress"
+  },
+  {
+    "key": "ender3v2tempfix",
+    "name": "Creality-2x-temperature-reporting-fix",
+    "url": "https://simplyprint.dk/"
+  },
+  {
+    "key": "calibrationcompanion",
+    "name": "Calibration-Companion",
+    "url": "https://github.com/iFrostizz/OctoPrint-CalibrationCompanion"
+  },
+  {
+    "key": "bedlevelvisualizer",
+    "name": "Bed Visualizer",
+    "url": "https://github.com/jneilliii/OctoPrint-BedLevelVisualizer"
+  },
+  {
+    "key": "backupscheduler",
+    "name": "Backup Scheduler",
+    "url": "https://github.com/jneilliii/OctoPrint-BackupScheduler"
+  },
+  {
+    "key": "autobim",
+    "name": "AutoBim",
+    "url": "https://github.com/j-be/AutoBim"
+  },
+  {
+    "key": "ABL_Expert",
+    "name": "ABL Expert Plugin",
+    "url": "https://framagit.org/razer/Octoprint_ABL_Expert"
+  },
+  {
+    "key": "astroprint",
+    "name": "AstroPrint",
+    "url": "https://github.com/AstroPrint/OctoPrint-AstroPrint"
+  },
+  {
+    "key": "arc_welder",
+    "name": "Arc-Welder",
+    "url": "https://github.com/FormerLurker/ArcWelderPlugin"
+  },
+  {
+    "key": "touchui",
+    "name": "TouchUI",
+    "url": "https://github.com/BillyBlaze/OctoPrint-TouchUI"
+  },
+  {
+    "key": "filamentmanager",
+    "name": "Filament Manager",
+    "url": "https://github.com/OllisGit/OctoPrint-FilamentManager"
+  },
+  {
+    "key": "octolapse",
+    "name": "Octolapse",
+    "url": "https://github.com/FormerLurker/Octolapse"
+  }
+]

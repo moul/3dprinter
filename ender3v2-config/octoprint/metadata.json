@@ -1,0 +1,8 @@
+{
+  "version": "1.7.2",
+  "excludes": [
+    "uploads",
+    "timelapse",
+    "timelapse_tmp"
+  ]
+}
