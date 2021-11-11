@@ -12,15 +12,16 @@ compile: deps
 	cp Marlin/.pio/build/STM32F103RET6_creality_maple/*.bin ender3v2-config/image.bin
 
 .PHONY: deps
-deps: Marlin .platformio
+deps: Marlin/.git .platformio
 
 .platformio:
 	pip install -U https://github.com/platformio/platformio-core/archive/develop.zip
 	$(UPDATE_ENV)	platformio update
 	touch .platformio
 
-Marlin:
-	git clone git@github.com:Jyers/Marlin
+Marlin/.git:
+	git submodule sync --recursive
+	git submodule update --init --recursive
 
 .PHONY: nix
 nix:
